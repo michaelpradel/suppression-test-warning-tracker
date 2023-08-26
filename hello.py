@@ -7,4 +7,5 @@ def say_hi(name):
     print("Hi, " + name + "!")
 
 def say_hello(name):
+    """ bla bla bla """
     print("Hello, " + name + "!")
